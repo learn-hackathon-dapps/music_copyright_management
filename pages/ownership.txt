@@ -1,0 +1,13 @@
+Fix You
+0x5C5ea80a51eCe4100341C86730a33Ee19e226D91,2,0xf63D7b0DC6744FB4ecdA626EEC09E4F618498f67,1
+// 4 = 2, 5=1
+Original Owners - Chris Martin -2 & Songwriter - 1
+No Secondary Fees
+Total Share Supply = 3
+
+Finesse Contract
+Finesse by Bruno Mars ft Cardi B
+0x507A63695D527a1c102a6A03212C6C4E124C0054,2,0x23b626eA2b1297c8D9fcF150387A614DA1Efd60c,2
+Original Owners = Bruno Mars:2 Cardi B:2
+No Secondary Fees
+Total Share Supply: 4
